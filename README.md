@@ -2,6 +2,16 @@
 
 Does what it says on the tin. The game is currently bugged and doesn't exit properly after closing the game. Launching this application just closes it so you don't have to do it manually.
 
+&nbsp;
+
+## Usage
+
+ 1) Download the latest version of the [application](https://github.com/Primus27/R6-Close/releases/latest).
+ 
+ 2) Run `'R6-Close.exe'` when you want Siege to exit.
+ 
+&nbsp;
+ 
 ## Optional - Build the app from source
 
 If you don't want to use the released EXE, you can build the application yourself.
@@ -18,7 +28,7 @@ If you don't want to use the released EXE, you can build the application yoursel
             - '_Add Python 3.8 to PATH_' = **checked**
         2) Click on '_Disable path length limit_' (requires admin privileges).
  
- 2) Download the [source code](https://github.com/Primus27/R6-Close/archive/master.zip).
+ 2) Download the [source code](https://github.com/Primus27/R6-Close/archive/main.zip).
  
  3) Install dependencies (found in requirements.txt)
     1) Press `Win`+`S`.
